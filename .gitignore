@@ -96,3 +96,4 @@ ENV/
 *.idea/
 
 _backups/
+python3.7/
